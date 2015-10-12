@@ -1,0 +1,6 @@
+<SysMonitor>
+  <sleeptime>10000</sleeptime> <!-- in milliseconds -->
+  <processes>chrome eclipse</processes>
+  <logfile>sysmonitor.log</logfile>
+  <systemStatusFile>sysstatus.log</systemStatusFile>
+</SysMonitor>
